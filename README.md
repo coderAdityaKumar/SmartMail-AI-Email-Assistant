@@ -17,7 +17,7 @@
 ---
 
 ## About the Project
-Email Writer is a Spring Boot and React-based application designed to simplify the process of generating and managing emails. It provides a seamless interface for users to create, preview, and send emails efficiently.
+Developed an AI email assistant utilizing API-based language models to generate email replies with a customizable tone.
 
 ---
 
