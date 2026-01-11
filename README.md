@@ -41,7 +41,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/email-writer.git
+   git clone https://github.com/coderAdityaKumar/SmartMail-AI-Email-Assistant.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -108,9 +108,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ## Contact
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Author**: Aditya Kumar
+- **Email**: asr341025@gmail.com
+- **GitHub**: https://github.com/coderAdityaKumar
 
 ---
 
